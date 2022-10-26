@@ -1,0 +1,2 @@
+# AutomaticControlSoftware
+Cronを利用して自動で複数ソフトの起動や停止、再起動などができるソフト
